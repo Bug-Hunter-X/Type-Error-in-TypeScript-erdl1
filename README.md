@@ -1,0 +1,3 @@
+# Type Error in TypeScript Function
+This example demonstrates a common type error in TypeScript that occurs when performing operations on variables with incompatible types. 
+Specifically, the `add` function is designed to add two numbers, but in the last line of the program, a string is passed as a parameter which leads to a type error because the string cannot be added to a number. TypeScript's type system helps catch this error during development.
